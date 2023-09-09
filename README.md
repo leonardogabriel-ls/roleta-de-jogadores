@@ -17,4 +17,16 @@ Esta é uma API feita para controlar rodadas, indicando quem sera o proxmo a jog
 ## tecnologias ultilizadas:
 
 express
+
 nodemon 
+
+## inicializar:
+primeiro passo: 
+$npm install 
+
+segundo passo:
+$npm run dev 
+
+
+
+
