@@ -12,10 +12,8 @@ Esta é uma API feita para controlar rodadas, indicando quem sera o próximo  a 
 ### exemplo: 
 "É a vez de Marcos jogar!"
 
-
 [![exemplo](https://prnt.sc/B6oVjABIJO5R)](https://prnt.sc/B6oVjABIJO5R)
 
-![exemplo](https://prnt.sc/IsdeTKGbX96v)
 ## tecnologias ultilizadas:
 
 express
